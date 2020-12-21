@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-12-21T18:58:20-05:00</updated><id>/feed.xml</id><title type="html">TRANSLATING LES MIS</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Katrina Vogan</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2020/11/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-11-20T22:51:40-05:00</published><updated>2020-11-20T22:51:40-05:00</updated><id>/jekyll/update/2020/11/20/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2020/11/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;a test footnote &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Katrina Vogan</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Footnote test</title><link href="/test/2020/11/20/footnote-test-post-fivethirtyeight.html" rel="alternate" type="text/html" title="Footnote test" /><published>2020-11-20T00:00:00-05:00</published><updated>2020-11-20T00:00:00-05:00</updated><id>/test/2020/11/20/footnote-test-post-fivethirtyeight</id><content type="html" xml:base="/test/2020/11/20/footnote-test-post-fivethirtyeight.html">&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;annotation-button&quot;&gt;Click Me!&lt;/button&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;the-test-part&quot;&gt;The test part&lt;/h1&gt;
+
+&lt;p&gt;This is a test&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu ligula lectus. Vivamus porta ex et metus dapibus venenatis. Sed urna turpis, accumsan a nulla et, mollis luctus ex. Nulla accumsan ac nulla maximus congue. Sed rutrum commodo felis, non tempor odio. Etiam convallis pretium orci, et vulputate metus ultricies ac. Vivamus hendrerit diam tortor, nec gravida mauris cursus ac. Donec a nisi sed orci efficitur mattis a eu felis. Etiam tempor, sapien eu gravida pharetra, dolor leo molestie odio, non porta diam urna non libero. Nunc ac ex rhoncus, accumsan velit ac, volutpat augue. Mauris cursus, mi ac varius scelerisque, leo ex pharetra enim, sit amet consectetur lacus eros lacinia lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam auctor ac leo eu tincidunt &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;annotation&quot;&gt;&lt;iframe width=&quot;auto&quot; height=&quot;auto&quot; max-width=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/b8DtkCOyE0I&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Donec lacinia lacus finibus odio accumsan, pretium semper lacus tincidunt. Donec sodales leo sit amet urna semper semper. Suspendisse accumsan hendrerit tellus eu efficitur. Curabitur vel risus ut quam vulputate hendrerit quis et massa. Nulla malesuada, tellus sit amet pretium auctor, turpis turpis dignissim turpis, eget eleifend est lectus in ipsum. Pellentesque accumsan pulvinar commodo. Aliquam vitae sapien porttitor, tincidunt purus at, volutpat tellus. Maecenas tincidunt metus nec tristique gravida. Cras velit leo, varius eget sodales at, elementum ut lorem. Etiam sed suscipit risus. Sed sit amet mattis eros &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;But what if you want to have a very long annotation? Is that Possible?&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Phasellus at nulla at lacus tempus finibus eget at dui. Fusce hendrerit dui sed nunc fermentum, sed rhoncus elit ullamcorper. Etiam eros nibh, sodales ac tincidunt a, venenatis et sem. Donec nec velit et ex varius molestie quis sit amet magna. Duis neque justo, pulvinar a ligula tempor, auctor hendrerit lorem. Nulla diam tortor, auctor et mi at, tempor facilisis nunc. Phasellus mollis, metus in mollis dapibus, arcu ante sollicitudin sapien, eu imperdiet tortor ligula eu eros.&lt;/p&gt;
+
+  &lt;p&gt;Vivamus iaculis augue vitae mi tincidunt, at hendrerit mauris varius. Cras nec tincidunt dui. Fusce at dictum libero. Suspendisse potenti. Nunc mollis nisi quis nisl tincidunt, vel interdum justo suscipit.&lt;/p&gt;
+
+  &lt;p&gt;You can even add in content like videos:&lt;/p&gt;
+
+  &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/b8DtkCOyE0I&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+  &lt;p&gt;And also photos:
+&lt;img src=&quot;/assets/CfuBsR0nLJZJ-RT9P-SHoIuraMTSdZqz0Tca08hrj0w.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;It certainly seems to be the case.&lt;/p&gt;
+
+  &lt;p&gt;Perhaps one of the most incredible things is that you can add in other footnotes! &lt;a class=&quot;annotation-link&quot;&gt;Like This&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p class=&quot;annotation&quot;&gt;This is another footnote&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Mauris molestie molestie nisl, at vehicula lectus posuere sit amet. Morbi tristique sem et lectus aliquet lobortis. Etiam sit amet ullamcorper nunc. Nulla consequat mattis mattis. Ut accumsan lobortis neque, placerat vulputate ante ullamcorper nec. Nulla a fermentum lorem. Fusce eget sapien et ex tristique maximus a non dolor &lt;a class=&quot;annotation-link&quot;&gt;Inline Footnote&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;This is an inline footnote&lt;br /&gt;&lt;br /&gt;Note that it spans multiple lines.&lt;/span&gt;. Nunc vehicula ultrices tellus in venenatis. Quisque nec libero sed diam cursus mollis at vitae nulla. Nullam pellentesque in augue vel scelerisque. Cras ante magna, faucibus quis lorem a, volutpat congue orci. Praesent mattis tortor ut vulputate placerat &lt;a class=&quot;annotation-link&quot;&gt;A custom annotation label&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;annotation&quot;&gt;This is an annotation made with a custom annotation label&lt;/p&gt;
+
+&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;annotation-button&quot;&gt;Click Me!&lt;/button&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes-on-how-this-works&quot;&gt;Notes on how this works&lt;/h2&gt;
+
+&lt;p&gt;&lt;del&gt;The code from &lt;a href=&quot;https://www.viget.com/articles/of-note-better-text-annotations-for-the-web/&quot;&gt;viget.com&lt;/a&gt; uses Babel, which in turn relies on JSX:&lt;/del&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;https://reactjs.org/docs/introducing-jsx.html&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;https://reactjs.org/docs/add-react-to-a-website.html&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;DONE&lt;/strong&gt; &lt;del&gt;To make this work properly, it would be better to have more plain javascript that creates the event handler to change the span class to make the effect.&lt;/del&gt; (I made some not great, but very plain Javascript that does it.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FIXED&lt;/strong&gt; &lt;del&gt;Also it seems to not handle the fact that it shouldn’t follow the anchor link to the top of the page. Don’t know how to fix this.&lt;/del&gt; Used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#!&lt;/code&gt; as href instead of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EVEN BETTER FIX&lt;/strong&gt; remove href from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag altogether and use CSS to add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mouse: pointer;&lt;/code&gt; for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:hover&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Best way to start from scratch: go and read through this: &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events&quot;&gt;MDN: Introduction to Events&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Also I changed it to use a div instead of a span. Should go look up what the essential difference is there (but it allowed me to embed an iframe for YouTube, which is something Katrina wanted.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DONE&lt;/strong&gt; &lt;del&gt;Another cool idea would be a button that expands / collapses all footnotes. (Similar to the Spotify loader)&lt;/del&gt; Truly some of the worst code I’ve written, but it works.&lt;/p&gt;
+
+&lt;p&gt;The better way to do this would be to make a state machine and allow the various inputs to change the state (either for an individual footnote or for all of them). But I don’t know how to pass a variable to the event handler function, so it is what it is.&lt;/p&gt;</content><author><name>Katrina Vogan</name></author><category term="test" /><summary type="html">Click Me!</summary></entry></feed>
