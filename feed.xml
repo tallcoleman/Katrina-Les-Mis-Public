@@ -1,62 +1,603 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://csct.katrinavogan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://csct.katrinavogan.com/" rel="alternate" type="text/html" /><updated>2020-12-21T21:20:50-05:00</updated><id>https://csct.katrinavogan.com/feed.xml</id><title type="html">TRANSLATING LES MIS</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Katrina Vogan</name></author><entry><title type="html">Footnote test</title><link href="https://csct.katrinavogan.com/test/2020/11/20/footnote-test-post-fivethirtyeight.html" rel="alternate" type="text/html" title="Footnote test" /><published>2020-11-20T00:00:00-05:00</published><updated>2020-11-20T00:00:00-05:00</updated><id>https://csct.katrinavogan.com/test/2020/11/20/footnote-test-post-fivethirtyeight</id><content type="html" xml:base="https://csct.katrinavogan.com/test/2020/11/20/footnote-test-post-fivethirtyeight.html">&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;annotation-button&quot;&gt;Click Me!&lt;/button&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://csct.katrinavogan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://csct.katrinavogan.com/" rel="alternate" type="text/html" /><updated>2020-12-22T13:52:10-05:00</updated><id>https://csct.katrinavogan.com/feed.xml</id><title type="html">TRANSLATING LES MIS</title><subtitle>A project for CSCT 732</subtitle><author><name>Katrina Vogan</name></author><entry><title type="html">An Introduction to Issues in Policing through Fiction</title><link href="https://csct.katrinavogan.com/les/mis/2020/11/20/Introduction.html" rel="alternate" type="text/html" title="An Introduction to Issues in Policing through Fiction" /><published>2020-11-20T22:00:00-05:00</published><updated>2020-11-20T22:00:00-05:00</updated><id>https://csct.katrinavogan.com/les/mis/2020/11/20/Introduction</id><content type="html" xml:base="https://csct.katrinavogan.com/les/mis/2020/11/20/Introduction.html">&lt;h2 id=&quot;his-name-was-javert-and-he-was-a-policeman&quot;&gt;“His name was Javert and he was a policeman”&lt;/h2&gt;
 
-&lt;h1 id=&quot;the-test-part&quot;&gt;The test part&lt;/h1&gt;
+&lt;p&gt;Though I have the privilege of an academic background, I found many of the texts that were read in this course to be intimidating. Many discussed issues in a language that I found inaccessible, or made references to theories that I had never heard of. As I continued in the course, this feeling never really subsided; I must have read the word “hegemony” a hundred times, and each time, I needed to google it.&lt;/p&gt;
 
-&lt;p&gt;This is a test&lt;/p&gt;
+&lt;p&gt;This was a shame, because I could tell that I was missing something in the readings: that the assigned writers were tackling important, relevant issues. I desperately wanted to understand. I began to wonder if there was another way of framing this information. It was when reading Foucault’s “Society Must Be Defended” lecture on biopower that the seed of this project germinated. I kept wondering how Victor Hugo, who was infamously preoccupied with the Parisian sewer system, would have reacted to these ideas. The more I thought about biopower in the context of &lt;em&gt;Les Misérables’&lt;/em&gt; depiction of the sewer system, the more it stuck, and the more confident about the assigned reading I felt.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu ligula lectus. Vivamus porta ex et metus dapibus venenatis. Sed urna turpis, accumsan a nulla et, mollis luctus ex. Nulla accumsan ac nulla maximus congue. Sed rutrum commodo felis, non tempor odio. Etiam convallis pretium orci, et vulputate metus ultricies ac. Vivamus hendrerit diam tortor, nec gravida mauris cursus ac. Donec a nisi sed orci efficitur mattis a eu felis. Etiam tempor, sapien eu gravida pharetra, dolor leo molestie odio, non porta diam urna non libero. Nunc ac ex rhoncus, accumsan velit ac, volutpat augue. Mauris cursus, mi ac varius scelerisque, leo ex pharetra enim, sit amet consectetur lacus eros lacinia lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam auctor ac leo eu tincidunt &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Victor Hugo was an intensely political writer; at its publication &lt;em&gt;Les Misérables&lt;/em&gt; “set the parliamentary agenda for 1862”, (Robb 381). I began to wonder if I could somehow use the text as a teaching tool, if I could produce something that might model how people might use a work of fiction to teach. I have had the ambition for some time to translate the novel, and I wondered if I could create a teaching text through translation, by annotating specific passages with information. Ideally, the text would illuminate the concept and vice versa. The information would “be disguised as fiction” which would be less intimidating to people without academic training.&lt;/p&gt;
 
-&lt;p class=&quot;annotation&quot;&gt;&lt;iframe width=&quot;auto&quot; height=&quot;auto&quot; max-width=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/b8DtkCOyE0I&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;I decided that, though Hugo’s text was undoubtably relevant to discussions of biopower, it had even greater resonances with current discussion on the role of the police in society. As Graham Robb says:&lt;/p&gt;
 
-&lt;p&gt;Donec lacinia lacus finibus odio accumsan, pretium semper lacus tincidunt. Donec sodales leo sit amet urna semper semper. Suspendisse accumsan hendrerit tellus eu efficitur. Curabitur vel risus ut quam vulputate hendrerit quis et massa. Nulla malesuada, tellus sit amet pretium auctor, turpis turpis dignissim turpis, eget eleifend est lectus in ipsum. Pellentesque accumsan pulvinar commodo. Aliquam vitae sapien porttitor, tincidunt purus at, volutpat tellus. Maecenas tincidunt metus nec tristique gravida. Cras velit leo, varius eget sodales at, elementum ut lorem. Etiam sed suscipit risus. Sed sit amet mattis eros &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;If a single idea can be extracted from the whole [of&lt;/em&gt; Les Misérables&lt;em&gt;], it is that persistent criminals are a product of the criminal justice system, a human and therefore monstrous creation; that the burden of guilt lies with society and that the rational reform of institutions should take precedence over the punishment of individuals.&lt;/em&gt; (381)&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;&lt;strong&gt;But what if you want to have a very long annotation? Is that Possible?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The character that most embodies the arguments made by Hugo about the limits of policing is Javert, so &lt;a href=&quot;/les/mis/2020/11/20/Faint-Lightning-on-the-Horizon.html&quot;&gt;I chose to translate the chapter in which he was introduced&lt;/a&gt; (Volume One, Book 5, Chapter 5 “Faint Lightning on the Horizon”).&lt;/p&gt;
 
-  &lt;p&gt;Phasellus at nulla at lacus tempus finibus eget at dui. Fusce hendrerit dui sed nunc fermentum, sed rhoncus elit ullamcorper. Etiam eros nibh, sodales ac tincidunt a, venenatis et sem. Donec nec velit et ex varius molestie quis sit amet magna. Duis neque justo, pulvinar a ligula tempor, auctor hendrerit lorem. Nulla diam tortor, auctor et mi at, tempor facilisis nunc. Phasellus mollis, metus in mollis dapibus, arcu ante sollicitudin sapien, eu imperdiet tortor ligula eu eros.&lt;/p&gt;
+&lt;p&gt;Originally, this project’s annotations focused more directly on aspects and processes of translation (and some of these do still remain). However, I was unsatisfied with this direction: it seemed to me that it was veering too far into literary studies. I wanted to keep it relevant to real world problems in the same way that the course readings we had read were relevant to real world problems. I restructured my annotations so that they worked thematically, focusing less on how the text had been created and more on the issues that certain passages brought to mind. As a result, the process of translation is less foregrounded in the end result then it was in my project proposal.&lt;/p&gt;
 
-  &lt;p&gt;Vivamus iaculis augue vitae mi tincidunt, at hendrerit mauris varius. Cras nec tincidunt dui. Fusce at dictum libero. Suspendisse potenti. Nunc mollis nisi quis nisl tincidunt, vel interdum justo suscipit.&lt;/p&gt;
+&lt;p&gt;As I worked, I realized that this project had an overlap with another of the options for our final project. It occurred to me that, as each of the “major annotations” was themed around an issue relating to policing or crime, I could easily create an informal syllabus by simply including reading recommendations. I also decided to incorporate key terms that people could use as a starting point to guide their own research and questions to prompt reflection. I decided to keep these questions generic; you will likewise doubtlessly notice that most of the annotations are relatively simple introductions to the topics contained within them. I also decided to adopt a less formal, academic tone as I wrote.&lt;/p&gt;
 
-  &lt;p&gt;You can even add in content like videos:&lt;/p&gt;
+&lt;p&gt;I made these choices for two reasons: first, I wanted to keep this project “friendly” to people of all knowledge ranges, especially to the target audience of people who had never considered or heard of these issues before. If people read the blurb and decided that they were interested in more detailed information, they could access one of the other resources highlighted in the annotation. Secondly, though each blurb is relatively short, the cumulative effect of the blurbs is long, and I didn’t want people to be overwhelmed with information. Unlike a traditional syllabus, where information is spread out over weeks, a chapter of fiction is consumed relatively quickly, and it was important to me that the framing device not be lost, as I consider it one of the key pedagogical benefits of the project. The project is intended as an introduction to the issue, not as a “deep dive”, though the potential to learn more is always there. It is my hope that this project is an inspiration for how topics in Cultural Studies may be introduced accessibly, and how we might use fiction in service of our pedagogical goals.&lt;/p&gt;
 
-  &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/b8DtkCOyE0I&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;/les/mis/2020/11/20/Faint-Lightning-on-the-Horizon.html&quot;&gt;Read the Translation →&lt;/a&gt;&lt;/p&gt;</content><author><name>Katrina Vogan</name></author><category term="Les" /><category term="Mis" /><summary type="html">An explanation of the genesis and reasoning for the project.</summary></entry><entry><title type="html">Faint Lightning on the Horizon</title><link href="https://csct.katrinavogan.com/les/mis/2020/11/20/Faint-Lightning-on-the-Horizon.html" rel="alternate" type="text/html" title="Faint Lightning on the Horizon" /><published>2020-11-20T21:00:00-05:00</published><updated>2020-11-20T21:00:00-05:00</updated><id>https://csct.katrinavogan.com/les/mis/2020/11/20/Faint-Lightning-on-the-Horizon</id><content type="html" xml:base="https://csct.katrinavogan.com/les/mis/2020/11/20/Faint-Lightning-on-the-Horizon.html">&lt;h2 id=&quot;annotations&quot;&gt;Annotations&lt;/h2&gt;
 
-  &lt;p&gt;And also photos:
-&lt;img src=&quot;/assets/CfuBsR0nLJZJ-RT9P-SHoIuraMTSdZqz0Tca08hrj0w.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This is an annotated translation of Volume One, Book 5, Chapter 5 from &lt;em&gt;Les Misérables&lt;/em&gt; by Victor Hugo. The annotations are provided inline with the translation so that you can read them in context.&lt;/p&gt;
 
-  &lt;p&gt;It certainly seems to be the case.&lt;/p&gt;
-
-  &lt;p&gt;Perhaps one of the most incredible things is that you can add in other footnotes! &lt;a class=&quot;annotation-link&quot;&gt;Like This&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p class=&quot;annotation&quot;&gt;This is another footnote&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Mauris molestie molestie nisl, at vehicula lectus posuere sit amet. Morbi tristique sem et lectus aliquet lobortis. Etiam sit amet ullamcorper nunc. Nulla consequat mattis mattis. Ut accumsan lobortis neque, placerat vulputate ante ullamcorper nec. Nulla a fermentum lorem. Fusce eget sapien et ex tristique maximus a non dolor &lt;a class=&quot;annotation-link&quot;&gt;Inline Footnote&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;This is an inline footnote&lt;br /&gt;&lt;br /&gt;Note that it spans multiple lines.&lt;/span&gt;. Nunc vehicula ultrices tellus in venenatis. Quisque nec libero sed diam cursus mollis at vitae nulla. Nullam pellentesque in augue vel scelerisque. Cras ante magna, faucibus quis lorem a, volutpat congue orci. Praesent mattis tortor ut vulputate placerat &lt;a class=&quot;annotation-link&quot;&gt;A custom annotation label&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;annotation&quot;&gt;This is an annotation made with a custom annotation label&lt;/p&gt;
+&lt;p&gt;They are hidden by default, but can be viewed by tapping or clicking the numbered labels. You can also choose to open or close all the annotations in the translation by using the button below:&lt;/p&gt;
 
 &lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;annotation-button&quot;&gt;Click Me!&lt;/button&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;notes-on-how-this-works&quot;&gt;Notes on how this works&lt;/h2&gt;
+&lt;h2 id=&quot;faint-lightning-on-the-horizon-1&quot;&gt;Faint Lightning on the Horizon &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;del&gt;The code from &lt;a href=&quot;https://www.viget.com/articles/of-note-better-text-annotations-for-the-web/&quot;&gt;viget.com&lt;/a&gt; uses Babel, which in turn relies on JSX:&lt;/del&gt;&lt;/p&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; The title in French is “Vagues éclairs à l’horizon”. If you compare my title to Isabel F. Hapgood’s title (“Vague Flashes on the Horizon”), you will notice that I have chosen a slightly more specific image. In part, the difference reflects Hapgood’s tendency to translate so called “mots amis” (French words which look like words that have the same meaning in English) as their English counterparts (Such that “Vagues” becomes “Vague”, where I have chosen “Faint”). The word “éclairs” can indeed be translated as both “flash” and “lightning”. Because this chapter introduces the antagonist of the novel, I wanted a slightly more foreboding image, and the image of an approaching storm seemed to me to fit.&lt;/p&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;https://reactjs.org/docs/introducing-jsx.html&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;https://reactjs.org/docs/add-react-to-a-website.html&lt;/del&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Little by little, and as time passed, all obstacles fell away. At the beginning, Monsieur Madeleine had faced that quasi-law that always imposes itself against those who rise: malicious actions and slander, then those became nothing more than disparagements, and those became nothing but discontent, then all that disappeared absolutely, he was respected completely unanimously and affectionately, and then there came a moment, around 1821, where the words “Monsieur the mayor” were said in Montreuil-sur-mer in almost the same accent that the words “Monsieur the bishop” had been said in Digne in 1815. People came from 10 leagues in all direction to consult Monsieur Madeleine. He ended quarrels, he prevented lawsuits, he reconciled enemies. They treated him like a judge, deservingly so. He seemed to have the book of the natural law for a soul. It was like an infection of reverence which, in six or seven year, won over all the region &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DONE&lt;/strong&gt; &lt;del&gt;To make this work properly, it would be better to have more plain javascript that creates the event handler to change the span class to make the effect.&lt;/del&gt; (I made some not great, but very plain Javascript that does it.)&lt;/p&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Hugo is effusive in his praise of Monsieur Madeleine, who seems to be—at the very least—the ideal of a public servant, if not the ideal human. While people familiar with the story of Les Mis will know that Monsieur Madeleine is the alias of Jean Valjean, former convict and the novel’s protagonist, this information is not officially confirmed to the reader until Chapter 3 of Book 7, Volume 1 (“Storm in a Skull”), though Hugo slyly acknowledges that “The reader has no doubt guessed that Monsieur Madeleine is none other than Jean Valjean”.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;FIXED&lt;/strong&gt; &lt;del&gt;Also it seems to not handle the fact that it shouldn’t follow the anchor link to the top of the page. Don’t know how to fix this.&lt;/del&gt; Used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#!&lt;/code&gt; as href instead of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#&lt;/code&gt;.&lt;/p&gt;
+  &lt;p&gt;Why withhold this information? Perhaps Hugo did not want the reader to prejudge Monsieur Madeleine based on Valjean’s past actions. Though Valjean’s crimes are minor, there are people who believe that a past criminal conviction, regardless of severity, justifies discrimination or disenfranchisement, as this very chapter illustrates. People who have been convicted of a crime face have greater difficulty finding employment and housing, and face punishments when they seek insurance (Henley 1) even after they have served their sentence. Others report facing discrimination when they seek health care (Redmond et al.).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;EVEN BETTER FIX&lt;/strong&gt; remove href from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag altogether and use CSS to add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mouse: pointer;&lt;/code&gt; for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:hover&lt;/code&gt;.&lt;/p&gt;
+  &lt;p&gt;In certain regions, those with criminal records face voting disenfranchisement, or other barriers to participating in the political process. This discrimination is often magnified by racism, as people of colour are disproportionately represented in the population of people with criminal convictions. These collateral consequences not only prevent those with criminal convictions from re-integrating into society, but also prevents society from gaining the benefits of their participation. Valjean’s presence is undoubtably a benefit to Montreuil-sur-mer; if he had been barred from participating, the town would have suffered.&lt;/p&gt;
 
-&lt;p&gt;Best way to start from scratch: go and read through this: &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events&quot;&gt;MDN: Introduction to Events&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Also I changed it to use a div instead of a span. Should go look up what the essential difference is there (but it allowed me to embed an iframe for YouTube, which is something Katrina wanted.)&lt;/p&gt;
+  &lt;p&gt;How should society treat those who have been convicted of a crime?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;DONE&lt;/strong&gt; &lt;del&gt;Another cool idea would be a button that expands / collapses all footnotes. (Similar to the Spotify loader)&lt;/del&gt; Truly some of the worst code I’ve written, but it works.&lt;/p&gt;
+  &lt;p&gt;How can we help those with a criminal convictions re-enter society?&lt;/p&gt;
 
-&lt;p&gt;The better way to do this would be to make a state machine and allow the various inputs to change the state (either for an individual footnote or for all of them). But I don’t know how to pass a variable to the event handler function, so it is what it is.&lt;/p&gt;</content><author><name>Katrina Vogan</name></author><category term="test" /><summary type="html">Click Me!</summary></entry></feed>
+  &lt;p&gt;&lt;strong&gt;Interested in learning more? Start your research with these key words&lt;/strong&gt;: collateral consequence, community re-integration&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Or read one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Henley, Andrew. “Criminal Records and Conditional Citizenship: Towards a Critical Sociology of PostSentence Discrimination.” &lt;em&gt;Emerging Voices: Critical Social Research by European Group Postgraduate and Early Career Researchers&lt;/em&gt;, edited by Samantha Fletcher and Holly White, EG Press, 2017, pp. 119–28.&lt;/p&gt;
+
+  &lt;p&gt;Jacobs, James B. “Second Class Citizens By Law.” &lt;em&gt;The Eternal Criminal Record&lt;/em&gt;, Harvard University Press, 2015, pp. 246–74.&lt;/p&gt;
+
+  &lt;p&gt;Kavanagh, Sean. “Criminal Record Doesn’t Automatically Exclude a Run for Office in Manitoba.” &lt;em&gt;CBC.Ca&lt;/em&gt;, Sept. 2017, &lt;a href=&quot;https://www.cbc.ca/news/canada/manitoba/kinew-ndp-pc-liberal-criminal-background-1.4299664&quot;&gt;https://www.cbc.ca/news/canada/manitoba/kinew-ndp-pc-liberal-criminal-background-1.4299664&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Monk, Eric. “A New Approach to the Consideration of Collateral Consequences in Criminal Sentencing.” &lt;em&gt;University of Toronto Faculty of Law Review&lt;/em&gt;, vol. 72, no. 2, 2014, p. 38+.&lt;/p&gt;
+
+  &lt;p&gt;Parkes, Debra. “Prisoner Voting Rights in Canada: Rejecting the Notion of Temporary Outcasts.” &lt;em&gt;Civil Penalties, Social Consequences&lt;/em&gt;, edited by Christopher Mele and Teresa Miller, Routledge, 2005, pp. 237–54.&lt;/p&gt;
+
+  &lt;p&gt;Ruddell, Rick, and L. Thomas Winfree. “Setting Aside Criminal Convictions in Canada: A Successful Approach to Offender Reintegration.” &lt;em&gt;The Prison Journal&lt;/em&gt;, vol. 86, no. 4, Dec. 2006, pp. 452–69. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;,&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: You will notice that the above two papers by Jacobs and Henley offer an American and British perspective, respectively, with Parkes offering some information on how the issue has been debated and litigated in Canada. Less research has been done on this issue in a Canadian context. This may be because Canada offers some protection from discrimination on the basis of past conviction, provided that a “&lt;a href=&quot;https://laws-lois.justice.gc.ca/eng/acts/h-6/section-3.html&quot;&gt;pardon has been granted or in respect of which a record suspension has been ordered&lt;/a&gt;”; on a province by province basis other protections may apply. I have offered Monkman for a legal perspective on the Canadian context despite the fact that the text is less friendly than I generally aim for in this project; the Ruddel paper has been chosen for similar reasons despite similar reservations about its inclusion. The news article is offered to demonstrate that this issue is directly relevant and to move reflection out of the hypothetical and into the every day.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Only one man, in the city and in the arrondissement, totally avoided this infection, and regardless of what Father Madeleine did, remained rebellious, as if a particular instinct, incorruptible and imperturbable, alerted him and worried at him. It seems in fact that there exists in certain men a truly bestial instinct, pure and honest like all instinct, that creates oppositions and predilections, that inevitably separates one nature from an other nature, that doesn’t hesitate, that is never clouded, that never is quiet and never relaxes, bright in the darkness, infallible, imperious, disobedient to all the warnings of intelligence and all the subversions of reason, and that, in the manner that destiny might be made, warns the man-dog secretly of the presence of the man-cat, and the man-fox of the presence of the lion-man.&lt;/p&gt;
+
+&lt;div class=&quot;annotation-wrapper&quot;&gt;Often, when Monsieur Madeleine walked down the street, calm, friendly, surrounded by well-wishes from everyone, there came a tall man, clothed in an long, iron grey over coat, armed with a heavy truncheon &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;&lt;div class=&quot;annotation&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; The truncheon is a symbol of police power, specifically the police power to commit violent acts. We might read the mention of the truncheon, here and later on in the chapter, as a reminder of the potential for violence inherent in interactions with the police. If &lt;em&gt;Les Misérables&lt;/em&gt; had been written in the modern North American context, Hugo may well have chosen instead to highlight a gun.&lt;/p&gt;
+
+    &lt;p&gt;Police brutality is one of the key issues that dominate conversations about the role of the police in today’s society — possibly even &lt;em&gt;the&lt;/em&gt; key issue. Police shootings of civilians (and other deaths caused by police actions) have sparked off waves of protest all over the globe. These civilians were often doing nothing more than living their lives normally when they encountered the police officers who would end their lives. (See the Al Jazeera slideshow linked below for more details). Often too, police officers who kill face very minor consequences.&lt;/p&gt;
+
+    &lt;p&gt;It is extremely irresponsible (if not outright offensive) to discuss police brutality without discussing the role of race and systemic racism. Indigenous people, Black people and other people of colour are disproportionately killed by the police; in fact, they are disproportionately targeted by police activity in general (“2020 already a particularly deadly year”). (People who suffer from mental health issues and substance abuse are also disproportionately represented (“2020 already a particularly deadly year”).) The #BlackLivesMatter movement has lead the way in drawing public attention to victims of police violence around the world (You can look at &lt;a href=&quot;https://blacklivesmatter.ca/&quot;&gt;the website of the Canadian “branch” here&lt;/a&gt;. Recently, their work and the work of other activists has lead to broad public consideration of other issues such as police militarization and restructuring or &lt;a href=&quot;https://defundthepolice.org/&quot;&gt;defunding the police&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;How does systemic racism function in public institutions?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Can the problem of systemic racism in law enforcement and the justice system be fixed? How?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Should the police be armed?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;strong&gt;Interested in learning more? Start your research with these key words:&lt;/strong&gt; police brutality, #BlackLivesMatter, systemic racism, defund the police, militarization of the police, police reform&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Or read (or browse) one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Black Lives Matter Canada&lt;/em&gt;. &lt;a href=&quot;https://blacklivesmatter.ca/&quot;&gt;https://blacklivesmatter.ca/&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+    &lt;p&gt;Chughtai, Alia. “Know Their Names: Black People Killed by the Police in the US.” &lt;em&gt;Al Jazeera&lt;/em&gt;, &lt;a href=&quot;https://interactive.aljazeera.com/aje/2020/know-their-names/index.html&quot;&gt;https://interactive.aljazeera.com/aje/2020/know-their-names/index.html&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Defund The Police&lt;/em&gt;. &lt;a href=&quot;https://defundthepolice.org/&quot;&gt;https://defundthepolice.org/&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+    &lt;p&gt;Singh, Inayat. “2020 Already a Particularly Deadly Year for People Killed in Police Encounters, CBC Research Shows.” &lt;em&gt;CBCNews&lt;/em&gt;, 23 July 2020, &lt;a href=&quot;https://newsinteractives.cbc.ca/fatalpoliceencounters/&quot;&gt;https://newsinteractives.cbc.ca/fatalpoliceencounters/&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Stelkia, Krista. “Police Brutality In Canada: A Symptom Of Structural Racism And Colonial Violence.” &lt;em&gt;Yellowhead Institute&lt;/em&gt;, 15 July 2020, &lt;a href=&quot;https://yellowheadinstitute.org/2020/07/15/police-brutality-in-canada-a-symptom-of-structural-racism-and-colonial-violence/&quot;&gt;https://yellowheadinstitute.org/2020/07/15/police-brutality-in-canada-a-symptom-of-structural-racism-and-colonial-violence/&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Zimring, Franklin E. &lt;em&gt;When Police Kill&lt;/em&gt;. Harvard University Press, 2017.&lt;/p&gt;
+  &lt;/div&gt;, and wearing a hat with a turned up brim, who swung around abruptly, and tracked him with his eyes until Monsieur Madeleine disappeared from view, crossing his arms, shaking his head slowly, and, pushing his upper lip up to his nose with his lower lip, made a sort of evocative grimace that could be translated as &quot;But what is it about that man? I'm certain I've seen him somewhere. In any case, I'll never be duped by him.&quot; &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;/div&gt;
+
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Javert is working off a gut feeling here; he has no proof that Monsieur Madeleine is anyone suspicious or harmful to the community (In fact, he has lots of proof against that!). The problem of police officers working based on impulse rather than on facts still exists today: we would call it &lt;em&gt;profiling&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;The issue of profiling is highly connected to issues of systemic racism and stereotyping. &lt;a href=&quot;http://www.ohrc.on.ca/en/paying-price-human-cost-racial-profiling/existence-racial-profiling&quot;&gt;People of colour are assumed to have a higher likelihood of criminality&lt;/a&gt;; these assumptions are used to justify police attention to and interference in the lives of individuals and communities of colour; because these people and communities are seen as inherently criminal, they are less likely to get “the benefit of the doubt” and more likely to face punishment. This increased attention has a real consequence: &lt;a href=&quot;https://www.theguardian.com/world/2020/jan/22/one-third-canada-prisoners-indigenous-report&quot;&gt;one third of Canada’s incarcerated people are Indigenous&lt;/a&gt;, and &lt;a href=&quot;https://www.cbc.ca/firsthand/features/heres-what-you-need-to-know-about-carding&quot;&gt;Black people were 17 times more likely to be “carded”&lt;/a&gt; (stopped by police and asked to supply personal information) in Toronto than white people before the practice was banned in 2017.&lt;/p&gt;
+
+  &lt;p&gt;Racial profiling is not restricted to law enforcement: it also plays a part when people of colour &lt;a href=&quot;https://www.health.harvard.edu/blog/racism-discrimination-health-care-providers-patients-2017011611015&quot;&gt;seek healthcare&lt;/a&gt; and &lt;a href=&quot;http://www.ohrc.on.ca/en/right-home-report-consultation-human-rights-and-rental-housing-ontario/housing-discrimination-and-individual&quot;&gt;housing&lt;/a&gt;. It should also be noted that profiling also occurs based on gender, disability, sexuality, class, as well other factors, including criminal history (See Footnote 2) and substance abuse.&lt;/p&gt;
+
+  &lt;p&gt;You may be wondering what the effects of an policy like carding has on crime. Is it worth it? The answer is simple: &lt;a href=&quot;https://www.cbc.ca/news/canada/toronto/little-to-no-proof-police-carding-has-effect-on-crime-arrest-ontario-report-1.4962601&quot;&gt;there’s no proof it has any effect at all&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;How do stereotypes influence who or what I see as criminal or threatening behaviour?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;What is the effect on communities when their members are disproportionately targeted by law enforcement or incarcerated?&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Start your research with these key words:&lt;/strong&gt; police profiling, carding, racial stereotyping, stop and frisk&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Or read (or watch) one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Carey, Maggie. “Moo Moo.” &lt;em&gt;Brooklyn Nine-Nine&lt;/em&gt;, Seaon 4, Episode 16, 2 May 2017.&lt;/p&gt;
+
+  &lt;p&gt;Cole, Desmond. “The Skin I’m In: I’ve Been Interrogated by Police More than 50 Times -- All Because I’m Black.” &lt;em&gt;Toronto Life&lt;/em&gt;, Apr. 2015, &lt;a href=&quot;https://torontolife.com/life/skin-im-ive-interrogated-police-50-times-im-black/&quot;&gt;https://torontolife.com/life/skin-im-ive-interrogated-police-50-times-im-black/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Officer, Charles. &lt;em&gt;The Skin We’re In&lt;/em&gt;. &lt;a href=&quot;https://www.cbc.ca/firsthand/episodes/the-skin-were-in&quot;&gt;https://www.cbc.ca/firsthand/episodes/the-skin-were-in&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Paying the Price: The Human Cost of Racial Profiling&lt;/em&gt;. Ontario Human Rights Commission, 21 Oct. 2003, &lt;a href=&quot;http://www.ohrc.on.ca/en/paying-price-human-cost-racial-profiling&quot;&gt;http://www.ohrc.on.ca/en/paying-price-human-cost-racial-profiling&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Satzewich, Vic, and William Shaffir. “Racism versus Professionalism: Claims and Counter-Claims about Racial Profiling.” &lt;em&gt;Canadian Journal of Criminology and Criminal Justice&lt;/em&gt;, vol. 51, no. 2, Apr. 2009, pp. 199–226.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You will notice that I have linked an episode of a TV show (Brooklyn Nine-Nine) that I discuss in footnote 7 as an example of “copaganda”. I invite you to consider how this episode balances its general portrayal of police officers against its examination of police profiling. What are the contradictions present? Brooklyn Nine-Nine is generally considered a “feel-good show” — do you think this episode offers a genuine critique of policing, or does it take refuge in comedy to alleviate discomfort?&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This person, heavy with an almost menacing gravity, was one of those types, who even when barely glimpsed, disquieted an observer.&lt;/p&gt;
+
+&lt;p&gt;He was named Javert, and he was a police-man &lt;a class=&quot;annotation-link&quot;&gt;5&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; Hapgood translates this as “His name was Javert, and he belonged to the police.” When I translated this, I wanted to emphasize Javert’s intimate connection to policing. Javert’s identity &lt;em&gt;is&lt;/em&gt; his job, as Hugo makes very clear; to say that he “belongs to the police” implies that he is somehow subordinate to the organization and there is a layer of disconnect. Javert to me is in many ways the archetypical policeman; my translation reflects this.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;He performed in Montreuil-sur-mer the dreary, but useful, duties of an inspector. He had not seen Monsieur Madeleine’s beginnings. Javert owed his post to the favour of Monsieur Chabouillet, the secretary of the Minister of the State, Count Anglès, then police commissioner in Paris. When Javert had come to Montreuil-sur-mer, the fortunes of the grand manufacturer had already been made, and “father Madeleine” had become Monsieur Madeleine &lt;a class=&quot;annotation-link&quot;&gt;6&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;6.&lt;/strong&gt; Javert is not originally from the community but has been appointed to a posting by an outside official. This, among other reasons detailed in the chapter, renders him an outsider. However, if, for the sake of a thought exercise, we were to set &lt;em&gt;Les Misérables&lt;/em&gt; in Toronto, Ontario instead of Montreuil-sur-mer, Javert would be set apart for another reason: though he may be a recent transplant, he is nevertheless still a police officer that lives in the community he works in. &lt;a href=&quot;https://www.theglobeandmail.com/canada/toronto/article-data-analysis-reveals-three-quarters-of-toronto-cops-reside-outside&quot;&gt;Around 75 per cent of Toronto police officers do not live in the city where they work&lt;/a&gt;. This is not at all an anomaly: &lt;a href=&quot;https://fivethirtyeight.com/features/most-police-dont-live-in-the-cities-they-serve/&quot;&gt;most police officers do not live and work in the same place&lt;/a&gt;. Residency requirement laws, which mandate that police officers live where they work, are very unpopular with police forces.&lt;/p&gt;
+
+  &lt;p&gt;This practice seems especially problematic when the focus on “community based policing” is considered. This style of policing, in which ties between police officers and the larger community are stressed has become the “official morality” (Clairmont 469) of Canadian policing. Community members become the police force’s “eyes and ears” (For more on this metaphor, see Ralph H. Saunder’s article below). In theory, community policing also gives community members more oversight on police conduct.&lt;/p&gt;
+
+  &lt;p&gt;However, critics of community policing say that it is nothing more than lip service used to distract the populace from police ideologies that are harmful to them, and that it simply serves to &lt;a href=&quot;https://kpulawandsociety.wordpress.com/2014/10/14/community-policing-as-an-ideology/&quot;&gt;further establish dominant power relations&lt;/a&gt;. Others point out that it makes the community complicit in surveillance techniques (Saunders).&lt;/p&gt;
+
+  &lt;p&gt;Community policing is also unevenly applied; police are reluctant to engage with some communities (especially marginalised communities, like communities of colour or queer communities), or engage in ways which are against community values (Saunders). Whether you agree or disagree that the ideals and goals of community policing are worthy, it is nevertheless true that these ideals are not always reflected in practice.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;What are the benefits and drawbacks of police officers living in the communities where they work?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;What community based policing initiatives exist where you live? Do you think they are effective?&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Start your research with these key words&lt;/strong&gt;: residency requirement, commuter cops, community based policing&lt;/p&gt;
+
+  &lt;p&gt;Fielding, Nigel G. “Concepts and Theory In Community Policing.” &lt;em&gt;Howard Journal of Criminal Justice&lt;/em&gt;, vol. 44, no. 5, Dec. 2005, pp. 460–72.&lt;/p&gt;
+
+  &lt;p&gt;Hayes, Molly. “Data Analysis Reveals Three-Quarters of Toronto Cops Reside Outside the City.” &lt;em&gt;The Globe and Mail&lt;/em&gt;, 8 Jan. 2019, &lt;a href=&quot;https://www.theglobeandmail.com/canada/toronto/article-data-analysis-reveals-three-quarters-of-toronto-cops-reside-outside/&quot;&gt;https://www.theglobeandmail.com/canada/toronto/article-data-analysis-reveals-three-quarters-of-toronto-cops-reside-outside/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Saunders, Ralph H. “The Space Community Policing Makes and the Body That Makes It.” &lt;em&gt;Professional Geographe&lt;/em&gt;, vol. 51, no. 1, 1999, pp. 135–46.&lt;/p&gt;
+
+  &lt;p&gt;Ungar-Srgon, Batya, and Andrew Flowers. “Reexamining Residency Requirements For Police Officers.” &lt;em&gt;FiveThirtyEight&lt;/em&gt;, Oct. 2104, &lt;a href=&quot;https://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/&quot;&gt;https://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Certain police men have a distinct physiognomy which is complicated by an air of meanness mixed with an air of authority. Javert had this physiognomy, without the meanness.&lt;/p&gt;
+
+&lt;p&gt;It is our belief that if souls were visible to the eye, we would see clearly that strange fact that each individual of the human species corresponds to one of the animal species, and we could recognise with ease the truth scarcely glimpsed by the philosopher that, from the oyster to the eagle, from the hog to the tiger, all the animals are in man and that each one of them is in a man. Sometimes even many of them simultaneously.&lt;/p&gt;
+
+&lt;p&gt;Animals are nothing but symbols of our virtues and our vices, wandering before our eyes, visible ghosts of our souls. God shows us them to make us reflect. Only, as animals are nothing more than shadows, God didn’t make them educatable in the complete sense of the word: for what reason? By contrast, our souls being real and having goals which are suitable to them, God gave us intelligence, that is to say, educability. Social education well done can always extract from a soul, whatever soul it is, the purpose contained with in it.&lt;/p&gt;
+
+&lt;p&gt;This is all said, obviously, from a perspective which is restrained to embodied terrestrial life, and without prejudging the profound question of the anterior and ulterior personality of non-human beings. The “visible me” doesn’t in anyway authorize the philosopher to deny the “latent me”. That reservation made, let us continue.&lt;/p&gt;
+
+&lt;p&gt;Now, if we concede for a moment between us that in all man there is one of creation’s animal species, it will be easy to say which one the officer of the peace Javert was.&lt;/p&gt;
+
+&lt;p&gt;The peasants from Austurias are convinced that in each of the litters of the wolves, there is born a dog which must be killed by the mother, lest he grow and devour the other puppies &lt;a class=&quot;annotation-link&quot;&gt;7&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;7.&lt;/strong&gt; This is an evocative image, isn’t it? One thing that I always find striking about this chapter is how frankly and harshly Hugo presents Javert. From his introduction, Javert is depicted as a sort of malevolent force; if he is not outright a villain, he is certainly not likable. Monsieur Madeleine has done nothing to deserve suspicion and hostility (remember, technically the reader does not yet know that he is hiding a secret identity or past). In fact, Monsieur Madeleine is a respected community leader, “surrounded by well-wishes from everyone”; Javert’s targeting of Madeleine marks Javert as unreasonable and bigoted.&lt;/p&gt;
+
+  &lt;p&gt;This portrayal is especially striking in the modern context, where the dominant portrayal of the police has swung wildly in the other direction. Shows like CSI, Law and Order, and Brooklyn Nine-Nine portray police and other law enforcement as heroic figures, “prioritizing the victories and struggles of police over communities being policed” (VanArendonk). These shows effectively act as “copaganda” promoting the agenda of the police.&lt;/p&gt;
+
+  &lt;p&gt;The overwhelmingly positive portrayal of the police in media has a real consequence in discussions about police brutality. Those marginalized by the police must somehow convince a populace conditioned to view the police as a positive force in communities to reject a message that is repeated over and over. When the dominant image in society is of a benevolent police system, is it any wonder that the narrative that police brutality is the result of a “few bad apples” and not systemic problems?&lt;/p&gt;
+
+  &lt;p&gt;As an example, we can examine a portrayal of Javert himself. Compare the following videos of &lt;a href=&quot;https://www.youtube.com/watch?v=OktB-qEOiXA&quot;&gt;Russel Crowe’s performance of &lt;em&gt;Stars&lt;/em&gt;&lt;/a&gt; (the song that introduces Javert in the musical)and &lt;a href=&quot;https://www.youtube.com/watch?v=urxk4mveLCw&quot;&gt;Philip Quast’s performance&lt;/a&gt; of the same song. Crowe performs the song tentatively, and director Tom Hooper shoots him in a tight close-up, highlighting his wavering expression. Where Quast performs with a truncheon clenched in his hands, Crowe keeps his hands at his sides, opening up his body language. Crowe’s version of Javert is unquestionably more sympathetic — “a little more vulnerable” (Han) — than both Quast’s performance and the source text.&lt;/p&gt;
+
+  &lt;p&gt;I would argue that Crowe’s performance fundamentally misunderstands Javert. Javert symbolizes the dangers of mistaking the rule of law with justice, and thus challenges a worldview that equates those who enforce the law with those who are on the side of right; his conviction is the point of the character and cannot be underplayed. However, when viewed against mass culture’s current understanding of the police, in which unjust officers are misguided, and police officers are consistently humanized, Crowe’s performance makes much more sense.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;Who or what do you think of when you think of the police?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;How has media influenced your understanding of police work?&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Interested in learning more? Start your research with these key word&lt;/strong&gt;s: copaganda, media bias&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Or read one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Frazer-Carroll, Micha. “Copaganda: Why Film and TV Portrayals of the Police Are under Fire.” &lt;em&gt;The Independent&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.independent.co.uk/arts-entertainment/tv/features/police-brutality-tv-copaganda-brooklyn-nine-nine-paw-patrol-cops-george-floyd-a9610956.html&quot;&gt;https://www.independent.co.uk/arts-entertainment/tv/features/police-brutality-tv-copaganda-brooklyn-nine-nine-paw-patrol-cops-george-floyd-a9610956.html&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;“Normalizing Injustice: The Dangerous Misrepresentations That Define Television’s Scripted Crime Genre.” produced by Color of Change Hollywood and the USC Annenberg Norman Lear Centre, Jan. 2020, &lt;a href=&quot;https://hollywood.colorofchange.org/crime-tv-report/&quot;&gt;https://hollywood.colorofchange.org/crime-tv-report/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;VanArendonk, Kathryn. “Cops Are Always the Main Characters.” &lt;em&gt;Vulture&lt;/em&gt;, June 2020, &lt;a href=&quot;https://www.vulture.com/2020/06/tv-cops-are-always-the-main-characters.html&quot;&gt;https://www.vulture.com/2020/06/tv-cops-are-always-the-main-characters.html&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;“Watching the Detectives: Television Has Distorted Americans’ View of Policing.” &lt;em&gt;The Economist&lt;/em&gt;, June 2020, &lt;a href=&quot;https://www.economist.com/books-and-arts/2020/06/25/television-has-distorted-americans-view-of-policing&quot;&gt;https://www.economist.com/books-and-arts/2020/06/25/television-has-distorted-americans-view-of-policing&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Give a human face to that dog-son-of-a-wolf, and that would be Javert.&lt;/p&gt;
+
+&lt;div class=&quot;annotation-wrapper&quot;&gt;Javert was born in a jail to a tarot reader whose husband was in the galleys. While growing up, he reasoned that he was outside of society and despaired that he would ever enter it. He remarked that society maintained without mercy outside of itself two classes of man, those who attack it, and those who guard it; he didn't have any choice except between these two classes; at the same time he knew in himself I-don't-know-what depth of rigidity, conformity, and probity, complicated by an inexpressible hatred for that race of bohemians &lt;a class=&quot;annotation-link&quot;&gt;8&lt;/a&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;8.&lt;/strong&gt; I would like to briefly diverge from direct questions of policing to discuss race (though we will return to the question of policing in the fourth paragraph of this footnote). While Javert has traditionally been depicted as white and played by white actors, the use of the word “bohèmes” (here translated as Bohemians), when combined with the detail that his mother is a fortune teller, seems to hint that Javert is of Romani descent, though he has also clearly internalized the racism the Romani faced (and indeed, continue to face) in France. It is likely that this contributes to the feeling of exclusion from society he suffers, which in turn influences his decision to enter law enforcement.&lt;/p&gt;
+
+    &lt;p&gt;So are traditional depictions of Javert whitewashed? In as much as the structures of modern policing are often supported by systemic white supremacy and racism, it seems to make a certain sense to portray Javert, who symbolizes the inadequacies of the policing establishment, as a white man. Javert’s race arguably does not play a large role in the plot. On the other hand, characters of colour are rare — Romani characters especially so — and casting Javert as a white man does take away a potential role from an actor of colour. This is not to say that Javert has never been played by an actor of colour; David Oyelowo acted the part in the 2019 BBC adaptation. You can find an &lt;a href=&quot;https://www.screendaily.com/features/emmys-2019-david-oyelowo-on-colour-blind-casting-les-miserables-and-directing-/5140304.article&quot;&gt;interview with Oyelowo here&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;As Oyelowo notes, Javert as a role can be quite rewarding: though Javert is a rigid and antagonistic character in the general schema of the novel and its adaptations, his eventual downfall and suicide does add a layer of complexity to the character, and depending on your perspective, you may find it quite sympathetic. Now, if you have read footnote 7, you may wonder if a reading that emphasizes his sympathetic qualities defeats the purpose of the character and misreads the novel. I would argue that it does not: Javert’s behavior is not justified or excused and his fatal flaw — his inability to withstand challenges to his rigid moral code, and, thus, his inability to bend before he breaks — is in fact foregrounded by his death. Javert’s ending emphasizes why getting his introduction right is so important: if Javert is portrayed sympathetically from the beginning, he emerges first as a human, and his role as a symbol for the justice system as a whole is weakened. (Hugo explicitly tells us to read him this way in just a few more paragraphs!)&lt;/p&gt;
+
+    &lt;p&gt;We discuss in other footnotes how race and policing interact from the perspective of the community that is policed. Inspired by the question of Javert’s ethnicity we may ask if race is significant within police ranks. Though police departments are diversifying (Sklansky), demographics of Police forces rarely reflect the communities that they serve (Marcoux et al.). Furthermore, general attitude within police departments is that police officers are defined primarily as police first over other identities (Skolnick 35). Minority police officers also report facing discrimination from their co-workers, including &lt;a href=&quot;https://www.cbc.ca/news/canada/toronto/toronto-police-human-rights-complaint-1.5804937&quot;&gt;racism&lt;/a&gt; and &lt;a href=&quot;https://www.cbc.ca/news/canada/toronto/heather-mcwilliam-human-rights-ruling-1.5635018&quot;&gt;sexism&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;In an ideal world, what does a police force look like?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;How might the demographics of a police force change the work they do — or their attitudes toward the work they do?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;strong&gt;Interested in learning more? Start your research with these key words:&lt;/strong&gt; police demographics, police workplace harassment&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Or read one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Marcoux, Jaques, et al. “Police Diversity Fails to Keep Pace with Canadian Populations.” &lt;em&gt;CBC.Ca&lt;/em&gt;, July 2016, &lt;a href=&quot;https://www.cbc.ca/news/canada/police-diversity-canada-1.3677952&quot;&gt;https://www.cbc.ca/news/canada/police-diversity-canada-1.3677952&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Sklansky, David Alan. “‘Not Your Father’s Police Department: Making Sense of the New Demographics of Law Enforcement.’” &lt;em&gt;Journal of Criminal Law and Criminology&lt;/em&gt;, vol. 96, no. 3, 2006, pp. 1209–44.&lt;/p&gt;
+  &lt;/div&gt;to which he had be born. He joined the police.&lt;/div&gt;
+
+&lt;p&gt;He flourished there. At 40, he was an inspector.&lt;/p&gt;
+
+&lt;p&gt;He had been, in his youth, employed among the convicts of the south of France.&lt;/p&gt;
+
+&lt;p&gt;Before we go further, listen to us on the subject of the “human face” that we can ascribe presently to Javert.&lt;/p&gt;
+
+&lt;p&gt;The human face of Javert consisted of a flat nose with two deep nostrils toward which climbed formidable sideburns on both cheeks. One felt uneasy the first time that one saw those those two forests and those two caves. When Javert laughed, which was rare and terrible, his thin lips parted, and one could see not only his teeth but his gums, and that made around his nose a flat and wild crease like on the snout of a wild beast. Javert serious was a mastiff, when he laughed, he was a tiger. The rest of him: not much skull, much jaw, hair hiding the forehead and falling to the eyebrows, between his eyes a central and permanent wrinkle like a star of anger, somber gaze, pinched and formidable mouth, a commanding and ferocious air.&lt;/p&gt;
+
+&lt;div class=&quot;annotation-wrapper&quot;&gt;This man was composed of two very simple feelings which were relatively decent, but he made them almost evil by the force of his exaggeration of them: respect of authority and hatred of rebellion; and his in his eyes theft, murder, all the crimes were nothing more than forms of rebellion. He enveloped in a sort of blind and deep faith all that had a purpose in the state, from the prime minister to the rural guard &lt;a class=&quot;annotation-link&quot;&gt;9&lt;/a&gt;.
+&lt;div class=&quot;annotation&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;9.&lt;/strong&gt; Hugo lays out Javert’s ideology quite clearly here and in the following paragraph: Javert believes fanatically in the rule of law as a barrier to the chaos represented by the criminal. Today that attitude is represented in the image of the “thin blue line”, which posits that the police are a necessity less crime (and implicitly the forces of evil) take over; as one police officer put it, the thin blue line “separates society from anarchy” (Wall 331).&lt;/p&gt;
+
+    &lt;p&gt;The thin blue line has also become a symbol for the tendency of police to fall into a collective identity against outsiders. Police support each other&lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2020/07/what-police-departments-do-whistle-blowers/613687/&quot;&gt;; there is a documented history of retaliation against whistleblowers&lt;/a&gt;.). Police unions prevent punishment of their members and bully politicians who oppose them (Adler-Bell) There is still a persistent belief among police that “the official never makes mistakes”.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;What is the roll of the whistle blower in police work? Can you think of an example in recent memory?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;What role do police organisations play in law enforcement? Should police be allowed to unionize?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;strong&gt;Interested in learning more? Start your research with these key words:&lt;/strong&gt; thin blue line, police unions&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Or read one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Adler-Bell, Sam. “How Police Do Politics.” &lt;em&gt;New Republic&lt;/em&gt;, vol. 251, no. 11, Nov. 2020, pp. 32–39.&lt;/p&gt;
+
+    &lt;p&gt;al-Gharbi, Musa. “Police Punish the ‘Good Apples.’” &lt;em&gt;The Atlantic&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2020/07/what-police-departments-do-whistle-blowers/613687/&quot;&gt;https://www.theatlantic.com/ideas/archive/2020/07/what-police-departments-do-whistle-blowers/613687/&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Beauchamp, Zack. “What the Police Really Believe.” &lt;em&gt;Vox.Com&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.vox.com/policy-and-politics/2020/7/7/21293259/police-racism-violence-ideology-george-floyd&quot;&gt;https://www.vox.com/policy-and-politics/2020/7/7/21293259/police-racism-violence-ideology-george-floyd&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Skolnick, Jerome H. “Enduring Issues of Police Culture and Demographics.” &lt;em&gt;Policing and Society&lt;/em&gt;, vol. 18, no. 1, Mar. 2008, pp. 35–45. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.1080/10439460701718542&quot;&gt;10.1080/10439460701718542&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Wall, Tyler. “The Police Invention of Humanity: Notes on the ‘Thin Blue Line.’” &lt;em&gt;Crime, Media, Culture: An International Journal&lt;/em&gt;, vol. 16, no. 3, Dec. 2020, pp. 319–36.&lt;/p&gt;
+  &lt;/div&gt;
+ He covered with disdain, aversion and disgust all whom had stepped over the legal line even once. He was absolute and didn't allow for exceptions. On one hand he said:&lt;/div&gt;
+
+&lt;p&gt;“The official never makes mistakes; the magistrate never has fault.”&lt;/p&gt;
+
+&lt;p&gt;One the other hand he said:&lt;/p&gt;
+
+&lt;p&gt;“Those are irredeemably lost. Nothing good can come of them” &lt;a class=&quot;annotation-link&quot;&gt;10&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;10.&lt;/strong&gt; In Javert’s view, rehabilitation is impossible and recidivism is all but guaranteed. Yet we know that the decision to offend is based on many factors, including poverty (See Footnote 11) — in fact, framing it as a decision might be misleading and insensitive. &lt;a href=&quot;https://www.theguardian.com/society/2010/dec/23/homeless-committing-crimes-for-shelter&quot;&gt;Is it really a decision if committing a crime is the only way you can get reliable shelter?&lt;/a&gt; What do you if you need to steal so that you don’t starve? The current system unfairly punishes the marginalized, and often traps them in a cycle of criminality.&lt;/p&gt;
+
+  &lt;p&gt;Graham Robb, Victor Hugo’s biographer, summarizes the message of &lt;em&gt;Les Misérables&lt;/em&gt; thusly:&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;If a single idea can be extracted from the whole, it is that persistent criminals are a product of the criminal justice system, a human and therefore monstrous creation; that the burden of guilt lies with society and that the rational reform of institutions should take precedence over the punishment of individuals&lt;/em&gt;” (382)&lt;/p&gt;
+
+  &lt;p&gt;What does reform of the system look like? &lt;a href=&quot;https://www.theguardian.com/commentisfree/2019/aug/16/we-know-that-prison-doesnt-work-so-what-are-the-alternatives&quot;&gt;Various solutions have been proposed&lt;/a&gt;, including &lt;a href=&quot;https://defundthepolice.org/&quot;&gt;defunding the police&lt;/a&gt;, moving to restorative justice (see Zehr and Mika below), and incorporating addictions treatment and mental health care for offenders who suffer from these health issues. What is clear in all cases is that change will mean redefining our current understandings of justice and criminality (See Moraro below).&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Consider&lt;/strong&gt;:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;If you were the victim of a crime, how would you want the offender treated?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;If you were accused of a crime, how would you want to be treated?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;What are the practicalities of defunding the police? What does law enforcement and/or the justice system look like in an ideal society? Which institutions should or shouldn’t continue?&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Interested in learning more? Start your research with these key words:&lt;/strong&gt; police reform, defund the police, criminal justice reform, restorative justice, sentence reductions, amnesty, pardons, sentence commutation&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Or read (or browse) one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Defund The Police&lt;/em&gt;. &lt;a href=&quot;https://defundthepolice.org/&quot;&gt;https://defundthepolice.org/&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+  &lt;p&gt;Moraro, Pierre. “Frameworks for Punishment: Implications for 21st Century Corrective Services.” &lt;em&gt;Prisons &amp;amp; Community Corrections: Critical Issues and Emerging Controversies&lt;/em&gt;, edited by Philip Birch and Louis A. Sicard, Routledge, 2020, pp. 3–15.&lt;/p&gt;
+
+  &lt;p&gt;“Restorative Justice Programs.” &lt;em&gt;Peacebuilders Canada&lt;/em&gt;, http://peacebuilders.ca/what-we-do/restorative-justice-programs. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+  &lt;p&gt;Smith, Mychal Denzel. “Incremental Change Is a Moral Failure.” &lt;em&gt;The Atlantic&lt;/em&gt;, Sept. 2020, &lt;a href=&quot;https://www.theatlantic.com/magazine/archive/2020/09/police-reform-is-not-enough/614176/&quot;&gt;https://www.theatlantic.com/magazine/archive/2020/09/police-reform-is-not-enough/614176/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;He shared absolutely the opinion of those extreme spirits who attributed to human law I-don’t-know what power to make, or, if you like, to define the damned, those who put a Styx at the base of society. He was stoic, serious, austere, a gloomy dreamer, humble and haughty like fanatics. His gaze could bore holes in wood. It was cold and it pierced. All his life was held in two words: vigilance and surveillance. He had introduced the unbending line into the most winding thing in the world; his conscious was his usefulness, his religion was his duty, and he was a spy like one is a priest. Misfortune to those who fell under his hand! He would have arrested his father for escaping from the labour camp and reported his mother for breaking her exile. And he would do it with the sort of interior satisfaction that comes from virtue. With that, a life of abstinence, isolation, abnegation, chastity, never a distraction. It was his unrelenting assignment, “police” understood as Spartans understood “Sparta”, a watch without pity, a savage honor, a marble informer, Brutus in Vidocq.&lt;/p&gt;
+
+&lt;p&gt;In every part of Javert a man who spied and who evaded was visible.&lt;/p&gt;
+
+&lt;p&gt;The spiritual school of Joseph de Maistre, which at that time seasoned those so-called ultra-royalist newspapers with high cosmology, would not have hesitated to say that Javert was a symbol. One didn’t see his brow that disappeared under his hat, one didn’t see his eyes which were lost under his eyebrows, one didn’t see his chin which disappeared into his cravat, one didn’t see his hands which retracted into his sleeves, one didn’t see his truncheon which he carried under his coat. But then the occasion came, and one saw all of a sudden exiting from all this shadow, like an ambush, a sharp featured and narrow brow, a sinister gaze, a menacing chin, enormous hands, and a monstrous club.&lt;/p&gt;
+
+&lt;p&gt;In his moments of leisure, which were rare, he read, though he hated books the entire time he did it; he was not completely illiterate. Some pomposity in his speech made this recognizable.&lt;/p&gt;
+
+&lt;p&gt;He had no vices, as we have said. When he was satisfied with himself, he granted himself a pinch of snuff. He kept hold of humanity by that.&lt;/p&gt;
+
+&lt;div class=&quot;annotation-wrapper&quot;&gt;One without difficulty will comprehend that Javert was the terror of all of the people that annual statistics of the justice department classifies under the heading &quot;Destitute&quot; &lt;a class=&quot;annotation-link&quot;&gt;11&lt;/a&gt;.
+&lt;div class=&quot;annotation&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;11.&lt;/strong&gt; The word I have translated here as “Destitute” is “Gens sans aveu” in the French, and can be translated a few ways: for example, you could use “Vagabond” or “Vagrant” as well. I chose destitute because I wanted to emphasis the problem of poverty, which is a key theme of the novel.&lt;/p&gt;
+
+    &lt;p&gt;Jean Valjean’s crime is famously minor; to quote the musical, he was labeled a criminal “just for stealing a mouthful of bread.” His crime was inspired by a real event Hugo witnessed on the streets of Paris. A man was arrested for the theft of a loaf of bread, and as the arrest took place, a wealthy woman pulled up in a cart.&lt;/p&gt;
+
+    &lt;p&gt;Hugo wrote:&lt;/p&gt;
+
+    &lt;p&gt;*That woman didn’t see the tragic man who watched her. *&lt;/p&gt;
+
+    &lt;p&gt;*I continued to think about it. *&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;That man was not anymore for me a man, he was the ghost of misery&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;If you read French, &lt;a href=&quot;https://fr.wikisource.org/wiki/Choses_vues/1846/La_vision_des_Mis%C3%A9rables&quot;&gt;you can read the rest of the diary entry he wrote about it here&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Today, we can see other examples of poverty — and food insecurity specifically — leading to crime. The Washington Post has reported &lt;a href=&quot;https://www.washingtonpost.com/business/2020/12/10/pandemic-shoplifting-hunger/&quot;&gt;that shoplifting of food has increased during the COVID-19 pandemic as more people fall into poverty&lt;/a&gt;. In Canada, “&lt;a href=&quot;https://www.thestar.com/opinion/editorialopinion/2011/02/20/tough_on_poverty_tough_on_crime.html&quot;&gt;while all those Canadians who beneath the poverty line are by no means associated with criminal activity […] [and] [l]ess than 10 percent of Canadians live beneath the poverty line […] almost 100 per cent of our prison inmates come from that 10 per cent&lt;/a&gt;” (Segal). The issue is intersectional&lt;a href=&quot;https://cwp-csp.ca/poverty/just-the-facts/&quot;&gt;: because people of colour and people with disabilities are more likely to live in poverty&lt;/a&gt;, they are disproportionately affected by anti-poor discrimination. Discrimination is further compounded by policies like the &lt;a href=&quot;https://cwp-csp.ca/2017/01/criminalizing-poverty-a-national-trend/&quot;&gt;criminalization of panhandling&lt;/a&gt;; the poor are also &lt;a href=&quot;https://ccla.org/bail-and-pre-trial-detention/&quot;&gt;less likely to be able to afford fines and bail&lt;/a&gt;. The link between crime and poverty simply can not be ignored, and anyone serious about abolishing crime must ensure that anti-poverty strategies (which factor in the complicating factors of racism, sexism and ableism) are a key part of their action plan.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;How can we abolish poverty in our communities? What is the role of charity in such plans, and what is the difference between charitable action and social justice initiatives?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Is crime ever justified? What circumstances excuse breaking the law?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;strong&gt;Start your research with these key words&lt;/strong&gt;: criminalization of poverty, bail reform, universal basic income, poverty reduction&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Or read one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Bolaño, Roberto. “Money.” &lt;em&gt;The Unknown University&lt;/em&gt;, translated by Laura Healey, New Directions, 2013.&lt;/p&gt;
+
+    &lt;p&gt;Egan, Timothy. “Good Poor, Bad Poor.” &lt;em&gt;The New York Times&lt;/em&gt;, 19 Dec. 2013, &lt;a href=&quot;https://www.nytimes.com/2013/12/20/opinion/egan-good-poor-bad-poor.html&quot;&gt;https://www.nytimes.com/2013/12/20/opinion/egan-good-poor-bad-poor.html&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Greve, Bent. “Explanation Of And Possible Policies Aimed At Reducing Poverty.” &lt;em&gt;Poverty: The Basics&lt;/em&gt;, 1 Edition, Routledge, 2019, pp. 67–87.&lt;/p&gt;
+
+    &lt;p&gt;Segal, Hugh. “Tough on Poverty, Tough on Crime.” &lt;em&gt;Toronto Star&lt;/em&gt;, 20 Feb. 2011, &lt;a href=&quot;https://www.thestar.com/opinion/editorialopinion/2011/02/20/tough\_on\_poverty\_tough\_on\_crime.html&quot;&gt;https://www.thestar.com/opinion/editorialopinion/2011/02/20/tough\_on\_poverty\_tough\_on\_crime.html&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The Bolaño work is a short poem, included in case you are interested in another artistic exploration of the role of money in quality of life.&lt;/p&gt;
+  &lt;/div&gt;
+Javert's name said aloud put them in full flight; Javert's face appearing petrified them.&lt;/div&gt;
+
+&lt;p&gt;Such was that formidable man.&lt;/p&gt;
+
+&lt;div class=&quot;annotation-wrapper&quot;&gt;Javert was like an eye always fixed on Monsieur Madeleine &lt;a class=&quot;annotation-link&quot;&gt;12&lt;/a&gt;.
+&lt;div class=&quot;annotation&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;12.&lt;/strong&gt; Cultural theorists like to use the image of the panopticon when speaking about systems of surveillance and government control. The model of the panopticon was developed by Jeremy Bentham and is a theoretical circular shaped prison with a central tower. The prisoners in the cells are constantly watched by each other and the central tower. Though the prisoners are visible from the tower, it is too tall for the prisoners to tell if somebody is watching them from inside it. Prisoners are forced to assume that they are being watched at all times.&lt;/p&gt;
+
+    &lt;p&gt;The theorist Michel Foucault, in his book &lt;em&gt;Discipline and Punish&lt;/em&gt;, used the metaphor of the panopticon to describe the ways in which society functions in the modern world. When we believe that we are constantly under watch, we modify our behaviour accordingly. This attitude requires a certain level of respect for — or fear of — those who are watching, less we suffer the consequences of behaving in a way that does not conform to expected behaviour. Surveillance has become a form of social control.&lt;/p&gt;
+
+    &lt;p&gt;As Hugo here illustrates, police have made use of surveillance techniques for centuries in ways that were not always justified. (Notice that Javert is also described as a “spy” and an “informer”; interestingly, one element of cultural detritus from the 2012 movie is a &lt;a href=&quot;https://thumbs.gfycat.com/AchingPracticalBeaver-size_restricted.gif&quot;&gt;popular gif of Javert watching Valjean through a window.&lt;/a&gt;) This remains an issue today; &lt;a href=&quot;https://www.thestar.com/news/gta/2018/03/05/two-years-after-they-said-they-didnt-toronto-police-admit-they-use-stingray-cellphone-snooping-device.html&quot;&gt;in 2018 Toronto police were caught lying about their use of a “Stingray snooping device”&lt;/a&gt; Police have also used surveillance techniques to &lt;a href=&quot;https://www.cjfe.org/when_law_enforcement_targets_journalists_in_north_america&quot;&gt;intimidate journalists&lt;/a&gt; and &lt;a href=&quot;https://www.theguardian.com/uk/2009/mar/06/police-surveillance-protesters-journalists-climate-kingsnorth&quot;&gt;keep tabs on activists&lt;/a&gt;. Issues of surveillance are highly related to issues of police profiling and over-policing of communities. Issues of surveillance are not just — never were just — a theoretical concern, but a very real fact of life for many.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Consider&lt;/strong&gt;:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Who is watching you? How is your data collected and used everyday?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Do people have a right to privacy? Where does this right begin and end?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Should companies be required to turn information over to the police?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;strong&gt;Start your research with these key words&lt;/strong&gt;: surveillance, right to privacy, panopticism, over-policing.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Or read one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Elmer, Greg. “Panopticon-Discipline-Control.” &lt;em&gt;Routledge Handbook of Surveillance Studies&lt;/em&gt;, edited by Kirstie Ball et al., 0 ed., Routledge, 2012, pp. 21–29. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.4324/9780203814949&quot;&gt;10.4324/9780203814949&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Felluga, Dino. “Modules on Foucault: On Panoptic and Carceral Society.” &lt;em&gt;Introductory Guide to Critical Theory.&lt;/em&gt; 2 Feb. 2015, Perdue University. Accessed December 20, 2020 &lt;a href=&quot;http://www.cla.purdue.edu/english/theory/newhistoricism/modules/foucaultcarceral.html&quot;&gt;http://www.cla.purdue.edu/english/theory/newhistoricism/modules/foucaultcarceral.html&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Haggerty, Kevin D. “Surveillance, Crime and the Police.” &lt;em&gt;Routledge Handbook of Surveillance Studies&lt;/em&gt;, edited by Kirstie Ball et al., 0 ed., Routledge, 2012, pp. 235–43. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.4324/9780203814949&quot;&gt;10.4324/9780203814949&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;Munn, Nathan. “Surveillance, Intimidation, Arrest: When Law Enforcement Targets Journalists In North America.” &lt;em&gt;Canadian Journalists for Free Expression&lt;/em&gt;, Aug. 2016, &lt;a href=&quot;https://www.cjfe.org/when\_law\_enforcement\_targets\_journalists\_in\_north\_america&quot;&gt;https://www.cjfe.org/when\_law\_enforcement\_targets\_journalists\_in\_north\_america&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; In lieu of recommending that you read all 306 pages of Michel Foucault’s &lt;em&gt;Discipline and Punish,&lt;/em&gt; I have instead included shorter summaries of Foucault’s work. The Felluga website is very digestible, while the Elmer offers a more in depth look at Foucault’s work and reactions to it in the context of surveillance studies. However, &lt;em&gt;Discipline and Punish&lt;/em&gt; is worth the read if you have the time and the inclination, especially because it discusses the history of the French criminal system, including the time period in which Hugo was writing. For example, Foucault discusses the figure of Vidocq, who Hugo references in this chapter of &lt;em&gt;Les Misérables&lt;/em&gt;, in Chapter 2 of Part 4 of &lt;em&gt;Discipline and Punish&lt;/em&gt; (Illegalities and delinquency).&lt;/p&gt;
+  &lt;/div&gt;
+An eye full of suspicion and conjecture. Monsieur Madeleine had ended up noticing Javert, but he acted like it was insignificant. He didn't ask a single question to Javert, he didn't search Javert out or avoid him, and bore without seeming to give it a thought that uncomfortable and almost restraining gaze. He treated Javert like he treated everyone else, with ease and goodness.&lt;/div&gt;
+
+&lt;p&gt;Because of some things Javert had let slip, one sensed that Javert had secretly looked into Monsieur Madeleine, with the curiosity that clung to his type and as much from instinct as from will; he seemed to know all the earlier traces that Father Madeleine had left elsewhere. Javert seemed to know, and he said sometimes in veiled terms, that someone had learned certain information in a certain region about a certain disappeared family. One time, it came upon him to say to himself:&lt;/p&gt;
+
+&lt;p&gt;“I think I’ve got him!”&lt;/p&gt;
+
+&lt;p&gt;Then, he spent three pensive days without speaking a word. It appeared that the thread he believed he had pulled had broken. Furthermore, such is the needed correction to the fact that the sense of certain words can offer too much of the absolute: there can never be anything truly certain in a human creature, and the property of instinct is precisely the fact that it can become clouded, thrown off track and mislead. Without this, it would be superior to intelligence and beast would find itself with more illuminated than man.&lt;/p&gt;
+
+&lt;p&gt;Javert had evidently been a little bit disconcerted by the perfect character and tranquility of Monsieur Madeleine.&lt;/p&gt;
+
+&lt;p&gt;One day, however, Javert’s strange demeanor seems to have made an impression on Monsieur Madeleine. Let’s see the occasion &lt;a class=&quot;annotation-link&quot;&gt;13&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;13.&lt;/strong&gt; At this point, you may well be saying: well, this is all very good, but isn’t a little anachronistic to read &lt;em&gt;Les Misérables&lt;/em&gt; this way? This book was published in 1862, and the stuff you want me to read is mostly from the last 20 years. This all seems very &lt;em&gt;political&lt;/em&gt; and very &lt;em&gt;modern.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;It may interest you to know that at the time of its publishing, &lt;em&gt;Les Misérables&lt;/em&gt; rapidly became both controversial and beloved for its politics. Graham Robb, biographer of Victor Hugo notes that “[s]everal critics called [the book] ‘dangerous’” and notes that “Perrot de Chezelles [a public prosecuter], in an ‘Examination of &lt;em&gt;Les Misérables&lt;/em&gt;’ defended the excellence of a State which persecuted convicts even after their release and derided the notion that poverty and ignorance had anything to do with crime.” (380) Graham claims that the book “set the parliamentary agenda for 1862”, sparking “a sudden surge of official interest in penal legislation” (381), and “[f]or those who recognized Hugo’s black-and-white vision as social reality seen from underneath […] &lt;em&gt;Les Misérables&lt;/em&gt; was a moral panacea, the Bible of popular optimism” (381).&lt;/p&gt;
+
+  &lt;p&gt;In 8 April 1851, Hugo wrote:&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;*I have a saying that describes this government: police everywhere, justice nowhere. *&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;If you read French, you can read about how &lt;a href=&quot;https://fr.wikipedia.org/wiki/Police_partout,_justice_nulle_part&quot;&gt;Hugo’s saying is still used by activists today on Wikipedia&lt;/a&gt;, or &lt;a href=&quot;https://www.lemonde.fr/societe/article/2018/03/17/a-paris-une-manifestation-contre-les-violences-policieres-et-en-soutien-aux-migrants_5272643_3224.html&quot;&gt;you can read an article about a relatively recent protest in which it was used by protesters&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Consider:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;What have we inherited from past activists?&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;What art shapes our understanding of today’s politics?&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Start your research with these key words:&lt;/strong&gt; Police partout, justice nulle part; protest art;&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Or read one of the following:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Cineas, Fabiola. “The Legacy of Black Lives Matter.” &lt;em&gt;Vox.Com&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.vox.com/2020/7/6/21311171/black-lives-matter-legacy&quot;&gt;https://www.vox.com/2020/7/6/21311171/black-lives-matter-legacy&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Gray, Jan-Henry. &lt;em&gt;Acknowledgments&lt;/em&gt;. &lt;a href=&quot;https://www.poetryfoundation.org/poems/154717/acknowledgments-5fa19a53d2c2b&quot;&gt;https://www.poetryfoundation.org/poems/154717/acknowledgments-5fa19a53d2c2b&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Rodriguez, Luis J. &lt;em&gt;To the Police Officer Who Refused to Sit in the Same Room as My Son Because He’s a “Gang Banger”:&lt;/em&gt; &lt;a href=&quot;https://www.poetryfoundation.org/poems/151343/to-the-police-officer-who-refused-to-sit-in-the-same-room-as-my-son-because-he39s-a-gang-banger&quot;&gt;https://www.poetryfoundation.org/poems/151343/to-the-police-officer-who-refused-to-sit-in-the-same-room-as-my-son-because-he39s-a-gang-banger&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Wilson, Keith S. &lt;em&gt;Black Matters&lt;/em&gt;. &lt;a href=&quot;https://www.poetryfoundation.org/poems/152736/black-matters&quot;&gt;https://www.poetryfoundation.org/poems/152736/black-matters&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The Gray, Rodriguez, and Wilson works are all poems, which were chosen for their thematic resonance. It seemed appropriate to offer artistic works in an annotation about artistic legacy!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/les/mis/2020/11/20/Introduction.html&quot;&gt;Read the Introduction →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/les/mis/2020/11/20/Works-Cited.html&quot;&gt;Read the Works Cited →&lt;/a&gt;&lt;/p&gt;</content><author><name>Katrina Vogan</name></author><category term="Les" /><category term="Mis" /><summary type="html">A translated chapter from Les Misérables demonstrating the idea of this project in practice.</summary></entry><entry><title type="html">Works Cited</title><link href="https://csct.katrinavogan.com/les/mis/2020/11/20/Works-Cited.html" rel="alternate" type="text/html" title="Works Cited" /><published>2020-11-20T20:00:00-05:00</published><updated>2020-11-20T20:00:00-05:00</updated><id>https://csct.katrinavogan.com/les/mis/2020/11/20/Works-Cited</id><content type="html" xml:base="https://csct.katrinavogan.com/les/mis/2020/11/20/Works-Cited.html">&lt;div class=&quot;works-cited&quot;&gt;
+  &lt;p&gt;Adler-Bell, Sam. “How Police Do Politics.” &lt;em&gt;New Republic&lt;/em&gt;, vol. 251, no. 11, Nov. 2020, pp. 32–39.&lt;/p&gt;
+
+  &lt;p&gt;al-Gharbi, Musa. “Police Punish the ‘Good Apples.’” &lt;em&gt;The Atlantic&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.theatlantic.com/ideas/archive/2020/07/what-police-departments-do-whistle-blowers/613687/&quot;&gt;https://www.theatlantic.com/ideas/archive/2020/07/what-police-departments-do-whistle-blowers/613687/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Beauchamp, Zack. “What the Police Really Believe.” &lt;em&gt;Vox.Com&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.vox.com/policy-and-politics/2020/7/7/21293259/police-racism-violence-ideology-george-floyd&quot;&gt;https://www.vox.com/policy-and-politics/2020/7/7/21293259/police-racism-violence-ideology-george-floyd&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Black Lives Matter Canada&lt;/em&gt;. &lt;a href=&quot;https://blacklivesmatter.ca/&quot;&gt;https://blacklivesmatter.ca/&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+  &lt;p&gt;Bolaño, Roberto. “Money.” &lt;em&gt;The Unknown University&lt;/em&gt;, translated by Laura Healey, New Directions, 2013.&lt;/p&gt;
+
+  &lt;p&gt;Carey, Maggie. “Moo Moo.” &lt;em&gt;Brooklyn Nine-Nine&lt;/em&gt;, Seaon 4, Episode16, 2 May 2017.&lt;/p&gt;
+
+  &lt;p&gt;Chughtai, Alia. “Know Their Names: Black People Killed by the Police in the US.” &lt;em&gt;Al Jazeera&lt;/em&gt;, &lt;a href=&quot;https://interactive.aljazeera.com/aje/2020/know-their-names/index.html&quot;&gt;https://interactive.aljazeera.com/aje/2020/know-their-names/index.html&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+  &lt;p&gt;Cineas, Fabiola. “The Legacy of Black Lives Matter.” &lt;em&gt;Vox.Com&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.vox.com/2020/7/6/21311171/black-lives-matter-legacy&quot;&gt;https://www.vox.com/2020/7/6/21311171/black-lives-matter-legacy&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Clairmont, Don. “Community-Based Policing: Implementation and Impact.” &lt;em&gt;Canadian Journal of Criminology&lt;/em&gt;, vol. 33, no. 3–4, Oct. 1991, pp. 469–84.&lt;/p&gt;
+
+  &lt;p&gt;Cole, Desmond. “The Skin I’m In: I’ve Been Interrogated by Police More than 50 Times -- All Because I’m Black.” &lt;em&gt;Toronto Life&lt;/em&gt;, Apr. 2015, &lt;a href=&quot;https://torontolife.com/life/skin-im-ive-interrogated-police-50-times-im-black/&quot;&gt;https://torontolife.com/life/skin-im-ive-interrogated-police-50-times-im-black/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Defund The Police&lt;/em&gt;. &lt;a href=&quot;https://defundthepolice.org/&quot;&gt;https://defundthepolice.org/&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+  &lt;p&gt;Egan, Timothy. “Good Poor, Bad Poor.” &lt;em&gt;The New York Times&lt;/em&gt;, 19 Dec. 2013, &lt;a href=&quot;https://www.nytimes.com/2013/12/20/opinion/egan-good-poor-bad-poor.html&quot;&gt;https://www.nytimes.com/2013/12/20/opinion/egan-good-poor-bad-poor.html&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Elmer, Greg. “Panopticon-Discipline-Control.” &lt;em&gt;Routledge Handbook of Surveillance Studies&lt;/em&gt;, edited by Kirstie Ball et al., 0 ed., Routledge, 2012, pp. 21–29. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.4324/9780203814949&quot;&gt;10.4324/9780203814949&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Felluga, Dino. “Modules on Foucault: On Panoptic and Carceral Society.” &lt;em&gt;Introductory Guide to Critical Theory&lt;/em&gt;, 2 Feb. 2015, &lt;a href=&quot;http://www.cla.purdue.edu/english/theory/newhistoricism/modules/foucaultcarceral.html&quot;&gt;http://www.cla.purdue.edu/english/theory/newhistoricism/modules/foucaultcarceral.html&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Fielding, Nigel G. “Concepts and Theory In Community Policing.” &lt;em&gt;Howard Journal of Criminal Justice&lt;/em&gt;, vol. 44, no. 5, Dec. 2005, pp. 460–72.&lt;/p&gt;
+
+  &lt;p&gt;Foucault, Michel. &lt;em&gt;Discipline and Punish: The Birth of the Prison&lt;/em&gt;. Translated by Alan Sheridan, 2nd Vintage Books ed, Vintage Books, 1995.&lt;/p&gt;
+
+  &lt;p&gt;Frazer-Carroll, Micha. “Copaganda: Why Film and TV Portrayals of the Police Are under Fire.” &lt;em&gt;The Independent&lt;/em&gt;, July 2020, &lt;a href=&quot;https://www.independent.co.uk/arts-entertainment/tv/features/police-brutality-tv-copaganda-brooklyn-nine-nine-paw-patrol-cops-george-floyd-a9610956.html&quot;&gt;https://www.independent.co.uk/arts-entertainment/tv/features/police-brutality-tv-copaganda-brooklyn-nine-nine-paw-patrol-cops-george-floyd-a9610956.html&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Gray, Jan-Henry. &lt;em&gt;Acknowledgments&lt;/em&gt;. &lt;a href=&quot;https://www.poetryfoundation.org/poems/154717/acknowledgments-5fa19a53d2c2b&quot;&gt;https://www.poetryfoundation.org/poems/154717/acknowledgments-5fa19a53d2c2b&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Greve, Bent. “Explanation Of And Possible Policies Aimed At Reducing Poverty.” &lt;em&gt;Poverty: The Basics&lt;/em&gt;, 1 Edition, Routledge, 2019, pp. 67–87.&lt;/p&gt;
+
+  &lt;p&gt;Haggerty, Kevin D. “Surveillance, Crime and the Police.” &lt;em&gt;Routledge Handbook of Surveillance Studies&lt;/em&gt;, edited by Kirstie Ball et al., 0 ed., Routledge, 2012, pp. 235–43. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.4324/9780203814949&quot;&gt;10.4324/9780203814949&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Hayes, Molly. “Data Analysis Reveals Three-Quarters of Toronto Cops Reside Outside the City.” &lt;em&gt;The Globe and Mail&lt;/em&gt;, 8 Jan. 2019, &lt;a href=&quot;https://www.theglobeandmail.com/canada/toronto/article-data-analysis-reveals-three-quarters-of-toronto-cops-reside-outside/&quot;&gt;https://www.theglobeandmail.com/canada/toronto/article-data-analysis-reveals-three-quarters-of-toronto-cops-reside-outside/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Henley, Andrew. “Criminal Records and Conditional Citizenship: Towards a Critical Sociology of PostSentence Discrimination.” &lt;em&gt;Emerging Voices: Critical Social Research by European Group Postgraduate and Early Career Researchers&lt;/em&gt;, edited by Samantha Fletcher and Holly White, EG Press, 2017, pp. 119–28.&lt;/p&gt;
+
+  &lt;p&gt;Hugo, Victor. &lt;em&gt;“&lt;/em&gt;8 avril 1815.&lt;em&gt;” Choses vues: souvenirs, journaux, cahiers, 1830-1885.&lt;/em&gt; Annotated by Hubert Juin, Ver. 2, Quarto Gallimard. 2002. pp 755.&lt;/p&gt;
+
+  &lt;p&gt;Hugo, Victor. &lt;em&gt;Les Misérables&lt;/em&gt;. Translated by Isabel F. Hapgood, Project Gutenberg, &lt;a href=&quot;http://www.gutenberg.org/files/135/135-h/135-h.htm#link2HCH0044&quot;&gt;http://www.gutenberg.org/files/135/135-h/135-h.htm#link2HCH0044&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Jacobs, James B. “Second Class Citizens By Law.” &lt;em&gt;The Eternal Criminal Record&lt;/em&gt;, Harvard University Press, 2015, pp. 246–74. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.4159/harvard.9780674735842&quot;&gt;10.4159/harvard.9780674735842&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Kavanagh, Sean. “Criminal Record Doesn’t Automatically Exclude a Run for Office in Manitoba.” &lt;em&gt;CBC.Ca&lt;/em&gt;, Sept. 2017, &lt;a href=&quot;https://www.cbc.ca/news/canada/manitoba/kinew-ndp-pc-liberal-criminal-background-1.4299664&quot;&gt;https://www.cbc.ca/news/canada/manitoba/kinew-ndp-pc-liberal-criminal-background-1.4299664&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Marcoux, Jaques, et al. “Police Diversity Fails to Keep Pace with Canadian Populations.” &lt;em&gt;CBC.Ca&lt;/em&gt;, July 2016, &lt;a href=&quot;https://www.cbc.ca/news/canada/police-diversity-canada-1.3677952&quot;&gt;https://www.cbc.ca/news/canada/police-diversity-canada-1.3677952&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Monk, Eric. “A New Approach to the Consideration of Collateral Consequences in Criminal Sentencing.” &lt;em&gt;University of Toronto Faculty of Law Review&lt;/em&gt;, vol. 72, no. 2, 2014, p. 38+.&lt;/p&gt;
+
+  &lt;p&gt;Moraro, Pierre. “Frameworks for Punishment: Implications for 21st Century Corrective Services.” &lt;em&gt;Prisons &amp;amp; Community Corrections: Critical Issues and Emerging Controversies&lt;/em&gt;, edited by Philip Birch and Louis A. Sicard, Routledge, 2020, pp. 3–15.&lt;/p&gt;
+
+  &lt;p&gt;Munn, Nathan. “Surveillance, Intimidation, Arrest: When Law Enforcement Targets Journalists In North America.” &lt;em&gt;Canadian Journalists for Free Expression&lt;/em&gt;, Aug. 2016, &lt;a href=&quot;https://www.cjfe.org/when_law_enforcement_targets_journalists_in_north_america&quot;&gt;https://www.cjfe.org/when_law_enforcement_targets_journalists_in_north_america&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;“Normalizing Injustice: The Dangerous Misrepresentations That Define Television’s Scripted Crime Genre.” &lt;em&gt;Color of Change Hollywood and the USC Annenberg Norman Lear Centre&lt;/em&gt;, Jan. 2020, &lt;a href=&quot;https://hollywood.colorofchange.org/crime-tv-report/&quot;&gt;https://hollywood.colorofchange.org/crime-tv-report/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Officer, Charles. &lt;em&gt;The Skin We’re In&lt;/em&gt;. &lt;a href=&quot;https://www.cbc.ca/firsthand/episodes/the-skin-were-in&quot;&gt;https://www.cbc.ca/firsthand/episodes/the-skin-were-in&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Parkes, Debra. “Prisoner Voting Rights in Canada: Rejecting the Notion of Temporary Outcasts.” &lt;em&gt;Civil Penalties, Social Consequences&lt;/em&gt;, edited by Christopher Mele and Teresa Miller, Routledge, 2005, pp. 237–54.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Paying the Price: The Human Cost of Racial Profiling&lt;/em&gt;. Ontario Human Rights Commission, 21 Oct. 2003, &lt;a href=&quot;http://www.ohrc.on.ca/en/paying-price-human-cost-racial-profiling&quot;&gt;http://www.ohrc.on.ca/en/paying-price-human-cost-racial-profiling&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Redmond, Nicole, et al. “Perceived Discrimination Based on Criminal Record in Healthcare Settings and Self-Reported Health Status among Formerly Incarcerated Individuals.” &lt;em&gt;Journal of Urban Health&lt;/em&gt;, vol. 97, no. 1, Feb. 2020, pp. 105–11. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.1007/s11524-019-00382-0&quot;&gt;10.1007/s11524-019-00382-0&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;“Restorative Justice Programs.” &lt;em&gt;Peacebuilders Canada&lt;/em&gt;, &lt;a href=&quot;http://peacebuilders.ca/&quot;&gt;http://peacebuilders.ca/&lt;/a&gt;. Accessed 20 Dec. 2020.&lt;/p&gt;
+
+  &lt;p&gt;Robb, Graham. &lt;em&gt;Victor Hugo&lt;/em&gt;. W.W. Norton, 1999.&lt;/p&gt;
+
+  &lt;p&gt;Rodriguez, Luis J. &lt;em&gt;To the Police Officer Who Refused to Sit in the Same Room as My Son Because He’s a “Gang Banger”:&lt;/em&gt; &lt;a href=&quot;https://www.poetryfoundation.org/poems/151343/to-the-police-officer-who-refused-to-sit-in-the-same-room-as-my-son-because-he39s-a-gang-banger&quot;&gt;https://www.poetryfoundation.org/poems/151343/to-the-police-officer-who-refused-to-sit-in-the-same-room-as-my-son-because-he39s-a-gang-banger&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Ruddell, Rick, and L. Thomas Winfree. “Setting Aside Criminal Convictions in Canada: A Successful Approach to Offender Reintegration.” &lt;em&gt;The Prison Journal&lt;/em&gt;, vol. 86, no. 4, Dec. 2006, pp. 452–69. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.1177/0032885506293251&quot;&gt;10.1177/0032885506293251&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Satzewich, Vic, and William Shaffir. “Racism versus Professionalism: Claims and Counter-Claims about Racial Profiling.” &lt;em&gt;Canadian Journal of Criminology and Criminal Justice&lt;/em&gt;, vol. 51, no. 2, Apr. 2009, pp. 199–226.&lt;/p&gt;
+
+  &lt;p&gt;Saunders, Ralph H. “The Space Community Policing Makes and the Body That Makes It.” &lt;em&gt;Professional Geographe&lt;/em&gt;, vol. 51, no. 1, 1999, pp. 135–46.&lt;/p&gt;
+
+  &lt;p&gt;Segal, Hugh. “Tough on Poverty, Tough on Crime.” &lt;em&gt;Toronto Star&lt;/em&gt;, 20 Feb. 2011, &lt;a href=&quot;https://www.thestar.com/opinion/editorialopinion/2011/02/20/tough_on_poverty_tough_on_crime.html&quot;&gt;https://www.thestar.com/opinion/editorialopinion/2011/02/20/tough_on_poverty_tough_on_crime.html&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Singh, Inayat. “2020 Already a Particularly Deadly Year for People Killed in Police Encounters, CBC Research Shows.” &lt;em&gt;CBCNews&lt;/em&gt;, 23 July 2020, &lt;a href=&quot;https://newsinteractives.cbc.ca/fatalpoliceencounters/&quot;&gt;https://newsinteractives.cbc.ca/fatalpoliceencounters/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Sklansky, David Alan. “‘Not Your Father’s Police Department: Making Sense of the New Demographics of Law Enforcement.’” &lt;em&gt;Journal of Criminal Law and Criminology&lt;/em&gt;, vol. 96, no. 3, 2006, pp. 1209–44.&lt;/p&gt;
+
+  &lt;p&gt;Skolnick, Jerome H. “Enduring Issues of Police Culture and Demographics.” &lt;em&gt;Policing and Society&lt;/em&gt;, vol. 18, no. 1, Mar. 2008, pp. 35–45. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.1080/10439460701718542&quot;&gt;10.1080/10439460701718542&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Smith, Mychal Denzel. “Incramental Change Is a Moral Failure.” &lt;em&gt;The Atlantic&lt;/em&gt;, Sept. 2020, &lt;a href=&quot;https://www.theatlantic.com/magazine/archive/2020/09/police-reform-is-not-enough/614176/&quot;&gt;https://www.theatlantic.com/magazine/archive/2020/09/police-reform-is-not-enough/614176/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Stelkia, Krista. “Police Brutality In Canada: A Symptom Of Structural Racism And Colonial Violence.” &lt;em&gt;Yellowhead Institute&lt;/em&gt;, 15 July 2020, &lt;a href=&quot;https://yellowheadinstitute.org/2020/07/15/police-brutality-in-canada-a-symptom-of-structural-racism-and-colonial-violence/&quot;&gt;https://yellowheadinstitute.org/2020/07/15/police-brutality-in-canada-a-symptom-of-structural-racism-and-colonial-violence/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Ungar-Sargon, Batya, and Andrew Flowers. “Reexamining Residency Requirements For Police Officers.” &lt;em&gt;FiveThirtyEight&lt;/em&gt;, Oct. 2104, &lt;a href=&quot;https://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/&quot;&gt;https://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;VanArendonk, Kathryn. “Cops Are Always the Main Characters.” &lt;em&gt;Vulture&lt;/em&gt;, June 2020, &lt;a href=&quot;https://www.vulture.com/2020/06/tv-cops-are-always-the-main-characters.html&quot;&gt;https://www.vulture.com/2020/06/tv-cops-are-always-the-main-characters.html&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Wall, Tyler. “The Police Invention of Humanity: Notes on the ‘Thin Blue Line.’” &lt;em&gt;Crime, Media, Culture: An International Journal&lt;/em&gt;, vol. 16, no. 3, Dec. 2020, pp. 319–36. &lt;em&gt;DOI.org (Crossref)&lt;/em&gt;, doi:&lt;a href=&quot;https://doi.org/10.1177/1741659019873757&quot;&gt;10.1177/1741659019873757&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;“Watching the Detectives: Television Has Distorted Americans’ View of Policing.” &lt;em&gt;The Economist&lt;/em&gt;, June 2020, &lt;a href=&quot;https://www.economist.com/books-and-arts/2020/06/25/television-has-distorted-americans-view-of-policing&quot;&gt;https://www.economist.com/books-and-arts/2020/06/25/television-has-distorted-americans-view-of-policing&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Wilson, Keith S. &lt;em&gt;Black Matters&lt;/em&gt;. &lt;a href=&quot;https://www.poetryfoundation.org/poems/152736/black-matters&quot;&gt;https://www.poetryfoundation.org/poems/152736/black-matters&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Zehr, Howard, and Harry Mika. “Fundamental Concepts of Restorative Justice.” &lt;em&gt;Restorative Justice: Ideals and Realities&lt;/em&gt;, edited by Margarita Zernova, Ashgate, 2007. &lt;em&gt;Open WorldCat&lt;/em&gt;, &lt;a href=&quot;http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=439007&quot;&gt;http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=439007&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Zimring, Franklin E. &lt;em&gt;When Police Kill&lt;/em&gt;. Harvard University Press, 2017.&lt;/p&gt;
+  &lt;div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name>Katrina Vogan</name></author><category term="Les" /><category term="Mis" /></entry></feed>

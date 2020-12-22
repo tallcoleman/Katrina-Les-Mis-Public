@@ -27,8 +27,8 @@ for (let i = 0; i < footnotelink.length; i++) {
 // option to open or close all annotations
 // not efficiently coded - not very DRY - but it works
 const fnButton = document.querySelectorAll('.annotation-button');
-var optionOpenText = 'Open all Footnotes';
-var optionCloseText = 'Close all Footnotes';
+var optionOpenText = 'Open all Annotations';
+var optionCloseText = 'Close all Annotations';
 
 // ensures button values matches starting state
 for (let i = 0; i < fnButton.length; i++) {
