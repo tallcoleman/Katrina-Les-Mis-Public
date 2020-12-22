@@ -103,7 +103,7 @@ button:active { color: #fff; background-color: #021859; }
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link { color: #FFF; line-height: 1.5; }
+.site-nav .page-link { color: #021859; line-height: 1.5; }
 
 .site-nav .page-link:not(:last-child) { margin-right: 20px; }
 
